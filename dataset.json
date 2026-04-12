@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Colorado, US",
+  "export_job_id": "4be0c10d-07c9-4937-b9f5-75117bd231c2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 346206,
+  "location_name": "Colorado",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-colorado-us-sample-346206",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/346206/beamstation_346206_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 7,
+  "sample_sha256": "0094f6bf51e243873ce2cfc5891380cc7e955497c3d5a5fc70a444f0c61c7da1",
+  "sample_size_bytes": 42164,
+  "total_records": 70,
+  "updated_at": "2026-04-09T20:38:50.226994+00:00"
+}
