@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2a21953a-c221-4f62-a6e5-6fb75c4a61b7",
+  "export_job_id": "627f4079-8545-427a-b32f-0209c620fecc",
   "id_short": 346206,
-  "published_at": "2026-04-23T19:46:42Z",
+  "published_at": "2026-05-01T19:04:32Z",
   "repo_name": "tech-ready-restaurants-in-colorado-us-sample-346206",
   "sample_asset_name": "beamstation_346206_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/346206/beamstation_346206_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "20e902a8f15d2bd4fa66dafc933b4b7f8214ac6f2c8fda415857e425b7533b75",
-  "sample_size_bytes": 36418,
-  "total_records": 50
+  "sample_records": 24,
+  "sample_sha256": "1cc55c25655edb5fe40486050d488fadfe8684f9b27f6508b6dd73b59205d599",
+  "sample_size_bytes": 109508,
+  "total_records": 247
 }
