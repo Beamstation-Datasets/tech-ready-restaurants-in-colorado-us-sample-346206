@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Colorado, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `346206` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-23T18:35:28.704897+00:00 |
+| Full dataset size | 247 records |
+| Free sample size | 24 records (9.72%) |
+| Last export | 2026-05-01T10:03:19.961299+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-colorado-us-sample-346206/releases/download/sample-latest/beamstation_346206_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
